@@ -1,0 +1,17 @@
+html{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+#head-date{
+    border: 5px solid black;
+    background-image: url(https://i.ytimg.com/vi/98h3I58amR8/maxresdefault.jpg);
+    background-position: center;
+    width: 40%;
+    margin: 200px auto;
+    text-align: center;
+    font-size: 3rem;
+    font-weight: bold;
+    border-top-left-radius: 3rem;
+    border-top-right-radius: 3rem;
+    color: white;
+}
