@@ -15,3 +15,9 @@ html{
     border-top-right-radius: 3rem;
     color: white;
 }
+
+#to-do-form{
+    width: 40%;
+    margin: auto;
+    border: 5px solid black;
+}
